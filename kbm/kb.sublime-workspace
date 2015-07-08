@@ -1,0 +1,994 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"make",
+				"make_random_pos"
+			],
+			[
+				"po",
+				"pos_b"
+			],
+			[
+				"pos",
+				"pos_a"
+			],
+			[
+				"vec",
+				"vec_diff"
+			],
+			[
+				"tmp2",
+				"tmp2_prev"
+			],
+			[
+				"print",
+				"print_config"
+			],
+			[
+				"S",
+				"SYSTEM_NAME"
+			],
+			[
+				"pot",
+				"potEn1_r"
+			],
+			[
+				"cn",
+				"cnf_data"
+			],
+			[
+				"cnf",
+				"cnf_fp"
+			],
+			[
+				"potEn",
+				"potEn2_r"
+			],
+			[
+				"t",
+				"tetra_cnf1"
+			],
+			[
+				"te",
+				"tetra_cnf"
+			],
+			[
+				"vec3_",
+				"vec3_array_init"
+			],
+			[
+				"mpf",
+				"mpf_init"
+			],
+			[
+				"de",
+				"deform0_mag"
+			],
+			[
+				"vec3",
+				"vec3_pt"
+			],
+			[
+				"test",
+				"test_cmp"
+			],
+			[
+				"tes",
+				"test_cmp"
+			],
+			[
+				"vma",
+				"vmag_r"
+			],
+			[
+				"minE",
+				"minEn_r"
+			],
+			[
+				"min",
+				"minEn_r"
+			],
+			[
+				"v",
+				"vec3_array"
+			],
+			[
+				"ve",
+				"vec3_pt"
+			],
+			[
+				"sds",
+				"sdst_r"
+			],
+			[
+				"N",
+				"NUMBEROFFRAMES"
+			],
+			[
+				"sym",
+				"symreloc_array"
+			],
+			[
+				"tmp_c",
+				"tmp_cnf_ptr"
+			],
+			[
+				"max",
+				"max_sub_cnf"
+			],
+			[
+				"max_su",
+				"max_sub_cnf_ptr"
+			],
+			[
+				"min_sub",
+				"min_sub_cnf_ptr"
+			],
+			[
+				"deform",
+				"deform_int"
+			],
+			[
+				"per",
+				"permArray"
+			],
+			[
+				"share",
+				"shareblock"
+			],
+			[
+				"confi",
+				"config_list_a"
+			],
+			[
+				"cofi",
+				"config_list_a"
+			],
+			[
+				"config",
+				"config_list_b"
+			],
+			[
+				"def",
+				"deformation_magnitude"
+			],
+			[
+				"q",
+				"qpa_utilities"
+			],
+			[
+				"p",
+				"pos_array"
+			],
+			[
+				"k",
+				"kepler_array"
+			],
+			[
+				"kep",
+				"create_kepler_array"
+			],
+			[
+				"f",
+				"final_constraint"
+			],
+			[
+				"in",
+				"inital_constraint"
+			],
+			[
+				"st",
+				"strokeColor"
+			],
+			[
+				"bot",
+				"bot_point"
+			],
+			[
+				"axis",
+				"axis_scale"
+			],
+			[
+				"pre",
+				"perpendicularsegment"
+			],
+			[
+				"x0",
+				"x0_tail"
+			],
+			[
+				"tick",
+				"ticksDistance"
+			],
+			[
+				"ti",
+				"ticks"
+			],
+			[
+				"a",
+				"axis"
+			],
+			[
+				"sr",
+				"srgamma_inv"
+			],
+			[
+				"$s",
+				"$scope	AngularJS"
+			],
+			[
+				"$roo",
+				"$rootScope	AngularJS"
+			],
+			[
+				"con",
+				"controller	AngularJS"
+			],
+			[
+				"c",
+				"controller	AngularJS"
+			],
+			[
+				"ng-r",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"fo",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.cpp",
+			"settings":
+			{
+				"buffer_size": 254,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "kSystem.h",
+			"settings":
+			{
+				"buffer_size": 341,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "kCluster.h",
+			"settings":
+			{
+				"buffer_size": 224,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "makefile",
+			"settings":
+			{
+				"buffer_size": 848,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "kSphere.h",
+			"settings":
+			{
+				"buffer_size": 350,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "kSystem.cpp",
+			"settings":
+			{
+				"buffer_size": 143,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "kCluster.cpp",
+			"settings":
+			{
+				"buffer_size": 142,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/CUDA C++/cuda-c++.sublime-build",
+					""
+				],
+				[
+					"Packages/CUDA C++/cuda-c++.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/JSLint/JSLint.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/JSLint/JSLint.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				"Clean"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 93.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Todo",
+				"TodoReview: Project Files"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"cuda",
+				"Set Syntax: CUDA C++"
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			],
+			[
+				"Pref",
+				"Preferences: InsertDate Keybindings - Default"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"latex",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"snipp",
+				"Snippet: for (…) {…}"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"IN",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 570.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"exit",
+			"ls",
+			"clear",
+			"make",
+			"ls",
+			"clear",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/erwin/Development/Working/kb"
+	],
+	"file_history":
+	[
+		"/Users/erwin/Development/Working/kb/kCluster.cpp",
+		"/Users/erwin/Development/Working/kb/kCluster.h",
+		"/Users/erwin/Development/Working/kb/kSystem.h",
+		"/Users/erwin/Development/Working/kb/kSystem.cpp",
+		"/Users/erwin/Development/Working/kb/kSphere.cpp",
+		"/Users/erwin/Development/Working/kb/kSphere.h",
+		"/Users/erwin/Development/Working/kb/main.cpp",
+		"/Users/erwin/Development/Working/kb/makefile",
+		"/Users/erwin/Development/Working/kb/kb.sublime-project",
+		"/Users/erwin/Development/SyncOut/bin/magnus_fswatch",
+		"/Users/erwin/Development/SyncOut/Magnus/Development/Working/kprecise/main.c",
+		"/Users/erwin/Development/SyncOut/Magnus/Development/Working/kprecise/makefile",
+		"/Users/erwin/Development/SyncOut/bin/magnus_rsync",
+		"/Users/erwin/Development/SyncOut/bin/excludes.txt",
+		"/Users/erwin/.profile",
+		"/Users/erwin/Development/SyncOut/Magnus/Development/Working/kprecise/test.c",
+		"/Users/erwin/Development/SyncOut/Magnus/.login",
+		"/Users/erwin/Development/SyncOut/Galaxy/bin/myrsync",
+		"/Users/erwin/Development/SyncOut/Galaxy/bin/myfswatch",
+		"/Users/erwin/Development/SyncOut/Galaxy/bin/myfwatch",
+		"/Users/erwin/Development/Working/kprecise/kprecise.sublime-project",
+		"/Users/erwin/Development/Working/kprecise/kpmath.c",
+		"/Users/erwin/Development/Working/kprecise/kpmath.h",
+		"/Users/erwin/Development/Working/kprecise/files.c",
+		"/Users/erwin/Development/Working/kprecise/files.h",
+		"/Users/erwin/Development/Working/kprecise/makefile",
+		"/Users/erwin/Development/Working/kprecise/test.c",
+		"/Users/erwin/Development/Working/kprecise/data_in",
+		"/Users/erwin/Development/Working/kprecise/data_test",
+		"/Users/erwin/Development/Working/kprecise/data_out",
+		"/Users/erwin/Development/Working/kprecise/test.h",
+		"/Users/erwin/Development/Working/confview/js/main.js",
+		"/Users/erwin/Development/Working/confview/data/conf_001_006_org.dat",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/blah.txt",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/k1kernel64.cu",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/k1head64.cu",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/k1global.cu",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/scratchpad",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/potentials64.cu",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/k1random.cu",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/k1math.cu",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/k1symrec.cu",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/sloane_data.txt",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/k1driver.c",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/k1symrec_old.cu",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/k1w7.sublime-project",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/k1kernel64.cuh",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/k1math.cuh",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/mainpage.md",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/k1perm.cu",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/k1print.cu",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/k1head64.h",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/k1imputils.cu",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/srcwatch",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/k1.sublime-project",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/k1file.cu",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/k1reloc128.cu",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/k1sum.cu",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/k1slone.h",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/Makefile",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/qaddbl.h",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/k1w7.sublime-workspace",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/k1w7.vcxproj",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/dbldbl.h",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/kreader64.cu",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/k1.sublime-workspace",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/potentials64_old2.cu",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/k1file64.cu",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/kreader128.cu",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/potentials128.cu",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/k1head128.cu",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/k1file128.cu",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/k1kernel128.cu",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/k1kernel64_org.cu",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/k1kernel64_old2.cu",
+		"/Volumes/Albert (C)/Users/Albert/Development/Working/k1w7/k1w7/kernel.cu",
+		"/Users/erwin/Development/Working/kpacsim/src/gpusystem/linux/k1/monpush",
+		"/Users/erwin/Development/Working/kpacsim/src/gpusystem/linux/k1/k1file.cu",
+		"/Users/erwin/Development/Working/kpacsim/src/gpusystem/linux/k1/srcwatch",
+		"/Users/erwin/Development/Working/kpacsim/src/gpusystem/linux/k1/k1.sublime-project",
+		"/Users/erwin/Development/Working/kpacsim/src/gpusystem/linux/k1/k1slone.h",
+		"/Users/erwin/Development/Working/kpacsim/src/gpusystem/linux/k1/k1kernel64.cu",
+		"/Users/erwin/Development/Scratch/stparray/main.c",
+		"/Users/erwin/Development/Working/kpacsim/src/gpusystem/linux/k1/k1global.cu",
+		"/Users/erwin/Development/Working/kpacsim/src/gpusystem/linux/k1/k1kernel64_org.cu",
+		"/Users/erwin/Development/Working/kpacsim/src/gpusystem/linux/k1/k1head64.cu",
+		"/Users/erwin/Development/Working/kpacsim/src/gpusystem/linux/k1/Makefile",
+		"/Users/erwin/Development/Working/kpacsim/src/gpusystem/linux/k1/k1driver.c",
+		"/Users/erwin/Development/Working/kpacsim/src/gpusystem/linux/k1/jszythos",
+		"/Users/erwin/Development/Working/kpacsim/src/gpusystem/linux/k1/jszeus",
+		"/Users/erwin/Development/Working/kpacsim/src/gpusystem/linux/k1/k1head64.h",
+		"/Users/erwin/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/erwin/Development/Working/kpacsim/src/gpusystem/linux/k1/k1perm.cu",
+		"/Users/erwin/Development/Working/kpacsim/src/gpusystem/linux/k1/potentials64.cu",
+		"/Users/erwin/Development/Scratch/GSLTest/main.c",
+		"/Users/erwin/Development/Working/kpacsim/src/gpusystem/linux/k1/dbldbl.h",
+		"/Users/erwin/Development/Working/kpacsim/src/gpusystem/linux/k1/qaddbl.h",
+		"/Users/erwin/Development/Working/kpacsim/src/gpusystem/linux/k1/k1kernel128.cu",
+		"/Users/erwin/Library/Application Support/Sublime Text 3/Packages/User/cuda-c++.JSON-tmLanguage",
+		"/Users/erwin/Library/Application Support/Sublime Text 3/Packages/User/cuda-c++.JSON-tmLanguage-tmLanguage.YAML-tmLanguage",
+		"/Users/erwin/Desktop/cuda-c++.JSON-tmLanguage",
+		"/Users/erwin/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/erwin/Development/Working/kpacsim/src/gpusystem/linux/k1/blahblah.cu",
+		"/Users/erwin/Development/Working/kpacsim/src/gpusystem/linux/k1/blah.cu.c",
+		"/Users/erwin/Development/Working/kpacsim/src/gpusystem/linux/k1/blah.c"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"3000",
+			"read_cnf_data",
+			"sphere",
+			"confData",
+			"nspheres",
+			"initialise_w",
+			"pos.w",
+			"cur_a->pos.w",
+			"MESum",
+			"kpinfo_t",
+			"kpt_t",
+			"kpoint_t",
+			"cudaMemcp",
+			"h_data",
+			"initialise_next",
+			"h_data",
+			"77",
+			"cudaMalloc",
+			"potential",
+			"slone_array",
+			"file64",
+			"k1head.",
+			"shareblock",
+			"int",
+			"Lets duplicate this line\n",
+			"minimal_energy_sum1",
+			"k1head64",
+			"initialise_next",
+			"tmp",
+			"dog",
+			"cat",
+			"toPre",
+			"radius",
+			"sl1",
+			"veloci",
+			"v1/Donny",
+			"donny",
+			"Donny",
+			"v1/bucketList",
+			"bucketLists",
+			"donny",
+			"view",
+			"compl",
+			"bucketList",
+			"bucket",
+			"bucketList",
+			"bucket",
+			"bucketList",
+			"donny",
+			"AvengersCtrl",
+			"text"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"kinf_t",
+			"kpnt_t",
+			"kpt_t",
+			"X1",
+			"v1/DON",
+			"DON",
+			"v1/Donny",
+			"bidLists",
+			"donnyList",
+			"donny",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 254,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								180,
+								180
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "kSystem.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 341,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								329,
+								329
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "kCluster.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 224,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								213,
+								213
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 848,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								608,
+								608
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "kSphere.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 350,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								228,
+								228
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "kSystem.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 143,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								143,
+								143
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "kCluster.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 142,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								82,
+								82
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 217.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Makefile/Make.sublime-build",
+	"project": "kb.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Volumes/Izac (C)/Users/Izac/Google Drive/andrejoe7/GScatch/GBook/gbook.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
